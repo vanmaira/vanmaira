@@ -22,7 +22,7 @@
   <img align="center" alt="Vanessa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="center" alt="Vanessa-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Vanessa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-  <img align="right" alt="Vanessa-boom" height="200" width="200" src="https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif">
+  <img align="right" alt="Vanessa-boom" height="150" width="150" src="https://media.giphy.com/media/6vj5quVNRhoQw/giphy.gif">
  </div>
 
   <div><p></div>
