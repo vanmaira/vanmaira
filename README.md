@@ -5,7 +5,7 @@
 
 
 - 👔 Trabalho como Engenheira de Software Trainee
-- 📔 Estudando Java
+- 📔 Estudando Kotlin
 - 📫 Contate-me no email: vanmaira@gmail.com
 - 😄 Pronouns: ela/dela
 
