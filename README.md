@@ -4,10 +4,9 @@
 
 
 
-- 👔 Trabalho como Engenheira de Software Junior
-- 📔 Estudando Kotlin
+- 👔 Engenheira de Software Junior
+- 📔 Estudando Java / Kotlin
 - 📫 Contate-me no email: vanmaira@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/vanmaira">
