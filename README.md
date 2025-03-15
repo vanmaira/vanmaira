@@ -36,6 +36,6 @@
  
 </div>
 
-<div>   
-  https://roadmap.sh/card/wide/67d55130f99268e73dc76abb?variant=dark&roadmaps=java
+<div align="center">  
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67d55130f99268e73dc76abb?variant=dark&roadmaps=java" alt="roadmap.sh"/></a>
 </div>
