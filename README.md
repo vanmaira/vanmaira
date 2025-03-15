@@ -35,3 +35,7 @@
   ![Snake animation](https://github.com/vanmaira/vanmaira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div>   
+  https://roadmap.sh/card/wide/67d55130f99268e73dc76abb?variant=dark&roadmaps=java
+</div>
